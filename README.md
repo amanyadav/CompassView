@@ -4,7 +4,7 @@ A custom view library which you can use in your project to show directions.
 
 ## Screenshots
 
-[![Main screen][screen1]
+![Main screen][screen1]
 
 ## Usage
 Add this view in your layout file.
